@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+body{
+	background-image: url("gb.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#header{
+	font-size: 100px;
+	font-family: 'Dancing Script', cursive;
+	margin:5px;
+	color: white;
+}
+.container{
+	text-align: center;
+	
+	
+}
+#logo{
+	width: auto;
+	height: auto;
+	size: 20px;
+}
+img{
+	border-radius: 100%;
+	border: solid 10px black;
+	height: 20px%;
+	width: 20px%;
+	
+	margin-top:10px ;
+}
+#mitra{
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+	color: white;
+}
+.right{
+	font-family: 'Dancing Script', cursive;
+	border: solid 10px black;
+	width: 55%;
+	text-align: justify;
+	margin-left: auto;
+	padding: 30px;
+	font-size: 30px;
+	color: white;
+	 
+}
+.left{
+	font-family: 'Dancing Script', cursive;
+	border: solid 10px black;
+	width: 55%;
+	text-align: justify;
+	margin-left: inherit;
+	padding: 30px;
+	font-size: 30px;
+	color: white;
+}
+.fa {
+	padding: 20px;
+	font-size: 3	0px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+  }
+  .fa:hover {
+	opacity: 0.7;
+  }
+  .fa-facebook {
+	background: #3B5998;
+	color: white;
+  }
+  .fa-instagram{
+	background: pink;
+	color: white;
+
+  }
+  .fa-spotify{
+	background-color: black;
+	color: green;
+  }
+  
